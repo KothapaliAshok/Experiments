@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Streamlit
+.streamlit/secrets.toml
